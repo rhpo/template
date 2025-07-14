@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": "savon-pack-3",
+      "name": "Kojie San Savon x3 Pack",
+      "price": {
+        "old": 3200,
+        "new": 2500
+      },
+      "currency": "DZD",
+      "image": "/products/savon-3x.png",
+      "inStock": true,
+      "description": "Lot de 2 savons Kojie San pour un teint éclatant et uniforme. Formule enrichie aux ingrédients naturels pour une peau douce et lumineuse.",
+      "category": "cosmétiques",
+      "weight": "65g x 2",
+      "brand": "Kojie San",
+      "details": [
+        {
+          "title": "Ingredients",
+          "content": "Kojic Acid, Glycérine, Huile de coco, Vitamine E, Extraits naturels"
+        },
+        {
+          "title": "Utilisation",
+          "content": "Utiliser matin et soir sur peau humide. Faire mousser et rincer abondamment."
+        },
+        {
+          "title": "Bénéfices",
+          "content": "Éclaircit le teint, réduit les taches pigmentaires, hydrate la peau"
+        },
+        {
+          "title": "Précautions",
+          "content": "Éviter le contour des yeux. En cas d'irritation, cesser l'utilisation."
+        },
+        {
+          "title": "Conservation",
+          "content": "Conserver dans un endroit sec et frais, à l'abri de la lumière directe."
+        }
+      ],
+      "features": [
+        "Éclaircit et unifie le teint",
+        "Formule naturelle à base de kojic acid",
+        "Convient à tous types de peau",
+        "Lot économique de 2 savons",
+        "Résultats visibles dès 2 semaines"
+      ]
+    },
+
+    {
+      "id": "savon-pack-2",
+      "name": "Kojie San Savon x2 Pack",
+      "price": {
+        "old": 2200,
+        "new": 1800
+      },
+      "currency": "DZD",
+      "image": "/products/savon-2x.png",
+      "inStock": true,
+      "description": "Pack de 2 savons Kojie San pour un teint éclatant et uniforme. Formule enrichie aux ingrédients naturels pour une peau douce et lumineuse.",
+      "category": "cosmétiques",
+      "weight": "65g x 2",
+      "brand": "Kojie San",
+      "details": [
+        {
+          "title": "Ingredients",
+          "content": "Kojic Acid, Glycérine, Huile de coco, Vitamine E, Extraits naturels"
+        },
+        {
+          "title": "Utilisation",
+          "content": "Utiliser matin et soir sur peau humide. Faire mousser et rincer abondamment."
+        },
+        {
+          "title": "Bénéfices",
+          "content": "Éclaircit le teint, réduit les taches pigmentaires, hydrate la peau"
+        },
+        {
+          "title": "Précautions",
+          "content": "Éviter le contour des yeux. En cas d'irritation, cesser l'utilisation."
+        },
+        {
+          "title": "Conservation",
+          "content": "Conserver dans un endroit sec et frais, à l'abri de la lumière directe."
+        }
+      ],
+      "features": [
+        "Éclaircit et unifie le teint",
+        "Formule naturelle à base de kojic acid",
+        "Convient à tous types de peau",
+        "Lot économique de 2 savons",
+        "Résultats visibles dès 2 semaines"
+      ]
+    },
+
+    {
+      "id": "savon-1",
+      "name": "Kojie San Savon 1 Portion",
+      "price": {
+        "old": 1200,
+        "new": 1000
+      },
+      "currency": "DZD",
+      "image": "/products/savon-1x.png",
+      "inStock": true,
+      "description": "Savon Kojie San pour un teint éclatant et uniforme. Formule enrichie aux ingrédients naturels pour une peau douce et lumineuse.",
+      "category": "cosmétiques",
+      "weight": "65g",
+      "brand": "Kojie San",
+      "details": [
+        {
+          "title": "Ingredients",
+          "content": "Kojic Acid, Glycérine, Huile de coco, Vitamine E, Extraits naturels"
+        },
+        {
+          "title": "Utilisation",
+          "content": "Utiliser matin et soir sur peau humide. Faire mousser et rincer abondamment."
+        },
+        {
+          "title": "Bénéfices",
+          "content": "Éclaircit le teint, réduit les taches pigmentaires, hydrate la peau"
+        },
+        {
+          "title": "Précautions",
+          "content": "Éviter le contour des yeux. En cas d'irritation, cesser l'utilisation."
+        },
+        {
+          "title": "Conservation",
+          "content": "Conserver dans un endroit sec et frais, à l'abri de la lumière directe."
+        }
+      ],
+      "features": [
+        "Éclaircit et unifie le teint",
+        "Formule naturelle à base de kojic acid",
+        "Convient à tous types de peau",
+        "Résultats visibles dès 2 semaines"
+      ]
+    }
+  ]
+}
